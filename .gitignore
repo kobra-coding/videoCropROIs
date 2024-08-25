@@ -1,0 +1,8 @@
+ffmpeg.exe
+crop.exe
+icon.ico
+/.idea
+*/__pycache__
+/src/py/__pycache__
+/build
+src/py/index.py
